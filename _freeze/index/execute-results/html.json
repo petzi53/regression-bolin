@@ -1,0 +1,15 @@
+{
+  "hash": "3ea5cf55f21e8398210762e826b29fba",
+  "result": {
+    "engine": "knitr",
+    "markdown": "# Preface {.unnumbered}\n\n\n\n\n\n\n\n::: {.callout-note style=\"color: blue;\"}\n#### This is work in progress: Just started (about 4%).\n:::\n\nThis Quarto book collects my personal notes, trials and exercises of the\n[An Introduction to Bayesian Thinking: A Companion to the Statistics with R Course](https://statswithr.github.io/book/index.html) by Merlise Clyde, Mine Çetinkaya-Rundel\n, Colin Rundel, David Banks, Christine Chai and Lizzy Huang.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
